@@ -1,3 +1,7 @@
 git command
 git tutorial
+<<<<<<< HEAD
 git pull
+=======
+git push pull
+>>>>>>> c062929b82a48c9d92e739e865f602271089970c
